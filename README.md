@@ -3,7 +3,7 @@
 This repository contains an interactive dashboard that provides insights into Netflix's userbase. The analysis focuses on user distribution by **subscription type, gender, device, and country**, along with **total revenue comparisons**.  
 
 ## 📌 Project Overview  
-This project aims to analyze Netflix's userbase data to extract meaningful insights using **SQL, Python, and Power BI**. The dashboard visualizes key metrics such as:  
+This project aims to analyze Netflix's userbase data to extract meaningful insights using **Jupyter Notebook, Python, and Power BI**. The dashboard visualizes key metrics such as:  
 - **User distribution by subscription type**  
 - **Revenue comparison across different subscription plans**  
 - **User demographics (gender, device usage, and country-wise distribution)**  
@@ -17,7 +17,6 @@ This project aims to analyze Netflix's userbase data to extract meaningful insig
 - `README.md` → Documentation  
 
 ## 🛠 Tools Used  
-- **SQL** → Data extraction and transformation  
 - **Python (Pandas, Matplotlib, Seaborn)** → Data cleaning and visualization  
 - **Power BI** → Dashboard creation  
 
